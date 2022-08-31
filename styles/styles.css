@@ -1,0 +1,48 @@
+form {
+  background-color: #cccccc;
+  max-width: 800px;
+  margin: 60px auto;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+tr.above td {
+  padding-top: 20px;
+}
+
+
+td {
+  color: #78373e;
+  
+}
+
+h1 {
+  color: #78373e;
+  background-color: white;
+  padding: 40px 5px
+}
+
+
+
+
+body {
+  background-color: #aaabaa;
+
+}
+
+label {
+  color: #78373e;
+}
+
+.my_name {
+  color: black;
+}
+
+#date {
+  color: grey;
+}
+
+input[type=submit] {
+  color: white;
+  background: #7a807c;
+  padding: 9px 20px;
+}
